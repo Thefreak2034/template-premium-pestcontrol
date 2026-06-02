@@ -1,0 +1,16 @@
+<svg viewBox="0 0 160 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs><linearGradient id="tbr-h" x1="50" y1="22" x2="110" y2="80" gradientUnits="userSpaceOnUse"><stop stop-color="#1a2540"/><stop offset="1" stop-color="#0e1220"/></linearGradient>
+        <linearGradient id="tbr-b" x1="20" y1="92" x2="140" y2="92" gradientUnits="userSpaceOnUse"><stop stop-color="#1646D2" stop-opacity=".1"/><stop offset=".5" stop-color="#5a9aff" stop-opacity=".7"/><stop offset="1" stop-color="#1646D2" stop-opacity=".1"/></linearGradient></defs>
+        <path d="M50 50 L80 26 L110 50 L110 84 L50 84 Z" fill="url(#tbr-h)" stroke="rgba(255,255,255,.15)" stroke-width="1.1"/>
+        <path d="M44 52 L80 22 L116 52" fill="none" stroke="rgba(90,154,255,.4)" stroke-width="1.4"/>
+        <rect x="58" y="58" width="13" height="13" rx="1" fill="rgba(90,154,255,.12)" stroke="rgba(90,154,255,.3)" stroke-width=".6"/>
+        <rect x="89" y="58" width="13" height="13" rx="1" fill="rgba(90,154,255,.12)" stroke="rgba(90,154,255,.3)" stroke-width=".6"/>
+        <rect x="73" y="66" width="14" height="18" rx="1" fill="rgba(22,70,210,.2)" stroke="rgba(90,154,255,.4)" stroke-width=".7"/>
+        <path d="M24 90 C24 90 24 96 40 96 L120 96 C136 96 136 90 136 90" fill="none" stroke="url(#tbr-b)" stroke-width="3" stroke-linecap="round"/>
+        <path d="M28 96 L132 96" stroke="rgba(90,154,255,.35)" stroke-width="1" stroke-dasharray="3 4"/>
+        <g fill="rgba(90,154,255,.6)">
+          <path d="M40 90 l0 6 M56 90 l0 6 M72 90 l0 6 M88 90 l0 6 M104 90 l0 6 M120 90 l0 6"/>
+        </g>
+        <path d="M34 90 l0 6 M50 90 l0 6 M66 90 l0 6 M82 90 l0 6 M98 90 l0 6 M114 90 l0 6 M126 90 l0 6" stroke="rgba(90,154,255,.45)" stroke-width="1"/>
+        <text x="80" y="112" fill="rgba(90,154,255,.7)" font-size="7" font-weight="bold" text-anchor="middle">PROTECTED</text>
+    </svg>

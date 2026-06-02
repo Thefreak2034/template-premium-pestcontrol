@@ -1,0 +1,24 @@
+<svg viewBox="0 0 160 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs><radialGradient id="ant-glow" cx="80" cy="60" r="42" gradientUnits="userSpaceOnUse"><stop stop-color="#1646D2" stop-opacity=".22"/><stop offset="1" stop-color="#1646D2" stop-opacity="0"/></radialGradient>
+        <linearGradient id="ant-b" x1="80" y1="34" x2="80" y2="98" gradientUnits="userSpaceOnUse"><stop stop-color="#5a9aff"/><stop offset="1" stop-color="#0F3399"/></linearGradient></defs>
+        <ellipse cx="80" cy="60" rx="42" ry="34" fill="url(#ant-glow)"/>
+        <!-- six legs, three each side, bent at the knee like real ant legs -->
+        <g stroke="url(#ant-b)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+            <path d="M73 46 L58 40 L48 30"/><path d="M73 60 L52 60 L40 56"/><path d="M73 74 L56 80 L46 90"/>
+            <path d="M87 46 L102 40 L112 30"/><path d="M87 60 L108 60 L120 56"/><path d="M87 74 L104 80 L114 90"/>
+        </g>
+        <!-- abdomen (largest, rear) -->
+        <ellipse cx="80" cy="86" rx="13" ry="17" fill="rgba(22,70,210,.42)" stroke="url(#ant-b)" stroke-width="1.4"/>
+        <ellipse cx="76" cy="80" rx="3.5" ry="6" fill="rgba(255,255,255,.12)"/>
+        <!-- waist / petiole connecting thorax to abdomen -->
+        <ellipse cx="80" cy="66" rx="3.2" ry="3.6" fill="rgba(22,70,210,.5)" stroke="url(#ant-b)" stroke-width="1.1"/>
+        <!-- thorax (middle) -->
+        <ellipse cx="80" cy="56" rx="8" ry="11" fill="rgba(22,70,210,.42)" stroke="url(#ant-b)" stroke-width="1.3"/>
+        <!-- head (small, rounded, front) -->
+        <circle cx="80" cy="40" r="7.5" fill="rgba(22,70,210,.45)" stroke="url(#ant-b)" stroke-width="1.3"/>
+        <ellipse cx="77" cy="37" rx="1.8" ry="1.3" fill="rgba(255,255,255,.32)"/>
+        <!-- two antennae off the head, bent -->
+        <path d="M76 34 L70 26 L64 22" stroke="rgba(90,154,255,.75)" stroke-width="1.3" stroke-linecap="round" fill="none"/>
+        <path d="M84 34 L90 26 L96 22" stroke="rgba(90,154,255,.75)" stroke-width="1.3" stroke-linecap="round" fill="none"/>
+        <circle cx="64" cy="22" r="1.5" fill="#5a9aff"/><circle cx="96" cy="22" r="1.5" fill="#5a9aff"/>
+    </svg>

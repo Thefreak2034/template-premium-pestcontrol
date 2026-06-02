@@ -1,0 +1,56 @@
+<svg viewBox="0 0 160 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs><radialGradient id="pos-glow" cx="78" cy="60" r="46" gradientUnits="userSpaceOnUse"><stop stop-color="#1646D2" stop-opacity=".2"/><stop offset="1" stop-color="#1646D2" stop-opacity="0"/></radialGradient>
+        <linearGradient id="pos-b" x1="40" y1="46" x2="120" y2="92" gradientUnits="userSpaceOnUse"><stop stop-color="#5a9aff"/><stop offset="1" stop-color="#0F3399"/></linearGradient>
+        <linearGradient id="pos-t" x1="18" y1="36" x2="58" y2="86" gradientUnits="userSpaceOnUse"><stop stop-color="#5a9aff" stop-opacity=".7"/><stop offset="1" stop-color="#0F3399" stop-opacity=".45"/></linearGradient></defs>
+        <ellipse cx="78" cy="60" rx="46" ry="32" fill="url(#pos-glow)"/>
+        <!-- long thick bushy tail sweeping behind & curling up from the rump -->
+        <path d="M58 82 C42 90 26 88 20 74 C15 62 19 48 32 40 C40 35 50 36 56 42"
+              fill="none" stroke="url(#pos-t)" stroke-width="9" stroke-linecap="round"/>
+        <!-- layered fur strokes along the tail -->
+        <g stroke="rgba(255,255,255,.16)" stroke-width=".7" stroke-linecap="round" fill="none">
+            <path d="M52 78 C40 84 30 83 26 74"/><path d="M44 84 C34 87 27 84 24 77"/>
+            <path d="M24 80 C19 71 20 60 28 52"/><path d="M20 70 C16 61 19 52 27 45"/>
+            <path d="M30 44 C36 40 44 40 50 44"/>
+        </g>
+        <g stroke="url(#pos-b)" stroke-width=".6" stroke-linecap="round" fill="none" opacity=".5">
+            <path d="M22 66 l-4 -2"/><path d="M21 73 l-4 1"/><path d="M27 80 l-3 3"/><path d="M37 85 l-1 4"/><path d="M31 41 l-2 -4"/>
+        </g>
+        <!-- crouching body: arched back sloping down to haunches, side profile -->
+        <path d="M58 82 C50 70 52 56 64 50 C78 43 96 44 108 52 C116 58 118 70 112 80
+                 C106 88 92 90 80 88 C70 86 62 86 58 82 Z"
+              fill="rgba(22,70,210,.42)" stroke="url(#pos-b)" stroke-width="1.4"/>
+        <!-- fur suggestion: fine layered strokes following the back -->
+        <g stroke="rgba(255,255,255,.14)" stroke-width=".6" stroke-linecap="round" fill="none">
+            <path d="M66 52 C78 47 94 48 104 54"/><path d="M64 58 C78 53 96 54 108 60"/>
+            <path d="M62 66 C76 62 96 63 110 68"/><path d="M64 74 C78 71 96 72 108 76"/>
+        </g>
+        <ellipse cx="74" cy="60" rx="10" ry="7" fill="rgba(255,255,255,.06)"/>
+        <!-- haunch / hind leg tucked under -->
+        <path d="M70 84 C66 88 64 94 66 98" stroke="url(#pos-b)" stroke-width="1.1" fill="none" stroke-linecap="round"/>
+        <line x1="64" y1="97" x2="58" y2="99" stroke="rgba(90,154,255,.6)" stroke-width="1.6" stroke-linecap="round"/>
+        <!-- fore leg / paw planted forward -->
+        <path d="M100 80 C100 86 100 92 98 97" stroke="url(#pos-b)" stroke-width="1.1" fill="none" stroke-linecap="round"/>
+        <line x1="98" y1="97" x2="92" y2="99" stroke="rgba(90,154,255,.6)" stroke-width="1.6" stroke-linecap="round"/>
+        <!-- two defined upright ears (rounded-triangular brushtail ears) -->
+        <path d="M100 46 C99 38 102 33 107 32 C108 38 107 44 104 49 Z" fill="rgba(22,70,210,.45)" stroke="url(#pos-b)" stroke-width="1.1" stroke-linejoin="round"/>
+        <path d="M112 48 C114 41 118 37 123 38 C122 44 119 50 115 53 Z" fill="rgba(22,70,210,.45)" stroke="url(#pos-b)" stroke-width="1.1" stroke-linejoin="round"/>
+        <!-- head with short rounded blunt muzzle (cat-like brushtail face), profile facing right -->
+        <path d="M100 50 C108 46 117 47 124 53 C128 56 130 60 129 64
+                 C128 68 124 69 120 68 C114 66 109 64 105 61
+                 C101 58 99 54 100 50 Z"
+              fill="rgba(22,70,210,.48)" stroke="url(#pos-b)" stroke-width="1.3"/>
+        <!-- subtle small eye -->
+        <circle cx="113" cy="56" r="1.9" fill="rgba(10,14,26,.75)" stroke="rgba(90,154,255,.65)" stroke-width=".7"/>
+        <circle cx="112.4" cy="55.4" r=".6" fill="rgba(255,255,255,.6)"/>
+        <!-- nose at the tip of the short rounded muzzle + whiskers -->
+        <ellipse cx="128" cy="63" rx="1.8" ry="1.4" fill="rgba(90,154,255,.85)"/>
+        <g stroke="rgba(90,154,255,.45)" stroke-width=".5" stroke-linecap="round">
+            <path d="M128 61 L136 57"/><path d="M129 63 L137 62"/><path d="M128 65 L136 68"/>
+        </g>
+        <!-- subtle humane release accent -->
+        <g transform="translate(28,104)" opacity=".8">
+            <circle cx="0" cy="0" r="5" fill="rgba(34,197,94,.1)" stroke="rgba(34,197,94,.45)" stroke-width=".9"/>
+            <path d="M-2.2 0 l1.5 1.6 l3 -3.4" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" fill="none"/>
+        </g>
+        <text x="38" y="108" fill="rgba(34,197,94,.6)" font-size="6.5" font-weight="bold" text-anchor="start" opacity=".8">HUMANE</text>
+    </svg>

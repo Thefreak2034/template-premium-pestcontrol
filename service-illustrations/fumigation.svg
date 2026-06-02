@@ -1,0 +1,24 @@
+<svg viewBox="0 0 160 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs><linearGradient id="fum-t" x1="40" y1="34" x2="120" y2="96" gradientUnits="userSpaceOnUse"><stop stop-color="#1646D2" stop-opacity=".25"/><stop offset="1" stop-color="#0F3399" stop-opacity=".1"/></linearGradient>
+        <linearGradient id="fum-h" x1="50" y1="50" x2="110" y2="96" gradientUnits="userSpaceOnUse"><stop stop-color="#1a2540"/><stop offset="1" stop-color="#0e1220"/></linearGradient>
+        <radialGradient id="fum-mist" cx="80" cy="78" r="30" gradientUnits="userSpaceOnUse"><stop stop-color="#5a9aff" stop-opacity=".4"/><stop offset="1" stop-color="#5a9aff" stop-opacity="0"/></radialGradient></defs>
+        <path d="M50 62 L78 40 L106 62 L106 96 L50 96 Z" fill="url(#fum-h)" stroke="rgba(255,255,255,.12)" stroke-width=".8"/>
+        <ellipse cx="80" cy="80" rx="26" ry="20" fill="url(#fum-mist)"/>
+        <path d="M80 22 L118 56 L118 96 L42 96 L42 56 Z" fill="url(#fum-t)" stroke="rgba(90,154,255,.55)" stroke-width="1.4"/>
+        <path d="M80 22 L80 96" stroke="rgba(90,154,255,.4)" stroke-width="1" stroke-dasharray="3 3"/>
+        <path d="M42 56 L118 56" stroke="rgba(90,154,255,.3)" stroke-width=".8"/>
+        <g stroke="rgba(90,154,255,.3)" stroke-width=".7" stroke-dasharray="2 3">
+            <path d="M42 68 L118 68"/><path d="M42 80 L118 80"/><path d="M42 92 L118 92"/>
+        </g>
+        <circle cx="80" cy="22" r="3" fill="rgba(90,154,255,.5)" stroke="rgba(90,154,255,.7)" stroke-width=".7"/>
+        <g stroke="rgba(90,154,255,.55)" stroke-width="1.2" fill="none" stroke-linecap="round">
+            <path d="M68 90 C64 84 72 80 68 74 C66 70 70 66 68 62"/>
+            <path d="M80 92 C76 86 84 82 80 76 C78 72 82 68 80 64"/>
+            <path d="M92 90 C88 84 96 80 92 74 C90 70 94 66 92 62"/>
+        </g>
+        <g transform="translate(28,84) rotate(-18)">
+            <ellipse cx="0" cy="0" rx="9" ry="6" fill="rgba(22,70,210,.3)" stroke="rgba(90,154,255,.5)" stroke-width=".9"/>
+            <rect x="7" y="-2" width="10" height="4" rx="1" fill="rgba(90,154,255,.4)"/>
+            <path d="M17 0 l5 -3 M17 0 l5 0 M17 0 l5 3" stroke="rgba(90,154,255,.55)" stroke-width=".8"/>
+        </g>
+    </svg>

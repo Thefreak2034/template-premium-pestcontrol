@@ -1,0 +1,18 @@
+<svg viewBox="0 0 160 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs><linearGradient id="gpc-sh" x1="80" y1="18" x2="80" y2="104" gradientUnits="userSpaceOnUse"><stop stop-color="#1646D2" stop-opacity=".18"/><stop offset="1" stop-color="#0F3399" stop-opacity=".05"/></linearGradient>
+        <radialGradient id="gpc-glow" cx="80" cy="58" r="34" gradientUnits="userSpaceOnUse"><stop stop-color="#5a9aff" stop-opacity=".3"/><stop offset="1" stop-color="#1646D2" stop-opacity="0"/></radialGradient></defs>
+        <ellipse cx="80" cy="58" rx="34" ry="36" fill="url(#gpc-glow)"/>
+        <path d="M80 18 L114 30 L114 58 C114 82 98 96 80 102 C62 96 46 82 46 58 L46 30 Z" fill="url(#gpc-sh)" stroke="rgba(90,154,255,.5)" stroke-width="1.4"/>
+        <path d="M80 26 L106 35 L106 58 C106 78 93 89 80 94 C67 89 54 78 54 58 L54 35 Z" fill="rgba(255,255,255,.03)" stroke="rgba(255,255,255,.1)" stroke-width=".7"/>
+        <g transform="translate(80,56)">
+            <ellipse cx="0" cy="2" rx="7" ry="11" fill="rgba(22,70,210,.4)" stroke="rgba(90,154,255,.6)" stroke-width="1"/>
+            <line x1="0" y1="-9" x2="0" y2="13" stroke="rgba(255,255,255,.25)" stroke-width=".7"/>
+            <circle cx="0" cy="-12" r="3.5" fill="rgba(90,154,255,.5)" stroke="rgba(90,154,255,.7)" stroke-width=".7"/>
+            <line x1="-2" y1="-14" x2="-6" y2="-19" stroke="rgba(90,154,255,.6)" stroke-width=".8"/><line x1="2" y1="-14" x2="6" y2="-19" stroke="rgba(90,154,255,.6)" stroke-width=".8"/>
+            <line x1="-6" y1="-3" x2="-13" y2="-7" stroke="rgba(90,154,255,.55)" stroke-width=".8"/><line x1="6" y1="-3" x2="13" y2="-7" stroke="rgba(90,154,255,.55)" stroke-width=".8"/>
+            <line x1="-6" y1="3" x2="-13" y2="4" stroke="rgba(90,154,255,.55)" stroke-width=".8"/><line x1="6" y1="3" x2="13" y2="4" stroke="rgba(90,154,255,.55)" stroke-width=".8"/>
+            <line x1="-5" y1="9" x2="-11" y2="14" stroke="rgba(90,154,255,.5)" stroke-width=".8"/><line x1="5" y1="9" x2="11" y2="14" stroke="rgba(90,154,255,.5)" stroke-width=".8"/>
+        </g>
+        <circle cx="62" cy="40" r="1.4" fill="#5a9aff" opacity=".6"/><circle cx="98" cy="44" r="1.2" fill="#5a9aff" opacity=".5"/>
+        <path d="M70 96 l2.5 2.5 l5 -6" stroke="#22c55e" stroke-width="1.6" stroke-linecap="round" fill="none" opacity=".9"/>
+    </svg>

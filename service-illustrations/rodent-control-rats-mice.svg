@@ -1,0 +1,16 @@
+<svg viewBox="0 0 160 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs><radialGradient id="rod-glow" cx="80" cy="62" r="42" gradientUnits="userSpaceOnUse"><stop stop-color="#1646D2" stop-opacity=".2"/><stop offset="1" stop-color="#1646D2" stop-opacity="0"/></radialGradient>
+        <linearGradient id="rod-b" x1="40" y1="50" x2="120" y2="86" gradientUnits="userSpaceOnUse"><stop stop-color="#5a9aff"/><stop offset="1" stop-color="#0F3399"/></linearGradient></defs>
+        <ellipse cx="80" cy="64" rx="42" ry="30" fill="url(#rod-glow)"/>
+        <path d="M48 76 C44 58 58 48 76 50 C96 52 110 60 118 64 C124 67 124 74 118 76 C100 82 70 84 56 82 C50 81 49 79 48 76 Z" fill="rgba(22,70,210,.4)" stroke="url(#rod-b)" stroke-width="1.4"/>
+        <circle cx="106" cy="56" r="10" fill="rgba(22,70,210,.32)" stroke="rgba(90,154,255,.6)" stroke-width="1.1"/>
+        <circle cx="106" cy="56" r="4.5" fill="rgba(90,154,255,.2)"/>
+        <ellipse cx="118" cy="68" rx="9" ry="7" fill="rgba(22,70,210,.45)" stroke="rgba(90,154,255,.6)" stroke-width="1"/>
+        <circle cx="121" cy="66" r="2" fill="rgba(255,255,255,.4)"/>
+        <circle cx="127" cy="72" r="1.4" fill="rgba(90,154,255,.8)"/>
+        <line x1="128" y1="70" x2="138" y2="66" stroke="rgba(90,154,255,.6)" stroke-width=".7"/><line x1="128" y1="72" x2="139" y2="72" stroke="rgba(90,154,255,.6)" stroke-width=".7"/><line x1="128" y1="74" x2="138" y2="78" stroke="rgba(90,154,255,.6)" stroke-width=".7"/>
+        <line x1="62" y1="82" x2="58" y2="90" stroke="rgba(90,154,255,.5)" stroke-width="1.6" stroke-linecap="round"/>
+        <line x1="78" y1="82" x2="78" y2="91" stroke="rgba(90,154,255,.5)" stroke-width="1.6" stroke-linecap="round"/>
+        <line x1="94" y1="82" x2="98" y2="90" stroke="rgba(90,154,255,.5)" stroke-width="1.6" stroke-linecap="round"/>
+        <path d="M50 74 C36 74 30 84 24 92" stroke="url(#rod-b)" stroke-width="2" stroke-linecap="round" fill="none"/>
+    </svg>

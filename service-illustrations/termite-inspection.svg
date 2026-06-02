@@ -1,0 +1,19 @@
+<svg viewBox="0 0 160 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs><linearGradient id="tin-wood" x1="24" y1="34" x2="120" y2="92" gradientUnits="userSpaceOnUse"><stop stop-color="#1a2540"/><stop offset="1" stop-color="#0e1220"/></linearGradient></defs>
+        <rect x="22" y="34" width="100" height="58" rx="4" fill="url(#tin-wood)" stroke="rgba(255,255,255,.15)" stroke-width="1"/>
+        <g stroke="rgba(90,154,255,.22)" stroke-width="1" fill="none">
+            <path d="M28 44 C50 41 80 47 116 43"/><path d="M28 54 C54 58 84 51 116 56"/>
+            <path d="M28 64 C48 60 78 67 116 62"/><path d="M28 74 C56 78 86 71 116 76"/>
+            <path d="M28 84 C50 81 80 87 116 83"/>
+        </g>
+        <ellipse cx="50" cy="62" rx="3" ry="9" fill="rgba(90,154,255,.12)" stroke="rgba(90,154,255,.3)" stroke-width=".6"/>
+        <circle cx="100" cy="60" r="18" fill="rgba(22,70,210,.08)" stroke="rgba(90,154,255,.5)" stroke-width="1.6"/>
+        <circle cx="100" cy="60" r="11" fill="rgba(10,14,26,.4)" stroke="rgba(90,154,255,.3)" stroke-width=".8"/>
+        <g transform="translate(100,60)">
+            <ellipse cx="-1" cy="0" rx="2.4" ry="6" fill="rgba(245,158,11,.4)" stroke="#f59e0b" stroke-width=".7"/>
+            <circle cx="-1" cy="-6.5" r="1.8" fill="#fbbf24"/>
+            <line x1="-3" y1="-2" x2="-7" y2="-3" stroke="#f59e0b" stroke-width=".6"/><line x1="1" y1="-2" x2="5" y2="-3" stroke="#f59e0b" stroke-width=".6"/>
+            <line x1="-3" y1="2" x2="-6" y2="3" stroke="#f59e0b" stroke-width=".6"/><line x1="1" y1="2" x2="4" y2="3" stroke="#f59e0b" stroke-width=".6"/>
+        </g>
+        <line x1="113" y1="73" x2="126" y2="86" stroke="rgba(90,154,255,.55)" stroke-width="3.4" stroke-linecap="round"/>
+    </svg>
